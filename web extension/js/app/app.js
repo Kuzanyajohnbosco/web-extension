@@ -1,0 +1,1 @@
+﻿var myApp = angular.module('AngularChromeEx', []); // this has the module we using in popup.html
